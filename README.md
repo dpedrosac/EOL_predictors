@@ -61,3 +61,7 @@ Runtime is dominated by the resampling steps. Note that both the optimism correc
 ## Limitations
 
 With N = 94 the number of events per parameter is about 5 in the primary model and well below 2 in the 21-predictor model. The exploratory model and the stability screen are hypothesis-generating; the selection frequencies indicate robustness of selection, not effect size.
+
+## License
+
+The code is released under the MIT License (see `LICENSE`). This applies to the code only, not to the data.
