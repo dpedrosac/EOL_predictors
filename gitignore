@@ -1,0 +1,8 @@
+# data and local working files - never commit
+*.xlsx
+interpretation.R
+deprecated/
+data/
+.Rhistory
+.RData
+.Rproj.user/
